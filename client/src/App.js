@@ -66,7 +66,7 @@ function App() {
 
               <input
                 type="text"
-                placeholder="Please paste the video link or share text here"
+                placeholder="Please paste the website link here"
                 value={url}
                 onChange={(e) => setUrl(e.target.value)}
                 onKeyDown={(e) => {
@@ -91,7 +91,7 @@ function App() {
               onClick={extractMedia}
               disabled={loading}
             >
-              {loading ? "Extracting..." : "Get Download Links"}
+              {loading ? "Extracting..." : "Fetch Media"}
             </button>
 
           </div>

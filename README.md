@@ -7,7 +7,7 @@ This project also demonstrates an **end-to-end DevSecOps implementation**, cover
 The CI/CD workflow is built using **GitHub, Jenkins, Docker, OWASP Dependency-Check, SonarQube, Trivy, Ansible Vault, Argo CD, and Kubernetes**.
 
 The goal of this project is to demonstrate how an application can be **securely built, validated, containerized, and deployed automatically** using modern DevSecOps practices.
-![MultimediaSaver-Web Homepage](./assets/homepage.png)
+![MultimediaSaver-Web Homepage](./assets/hero.png)
 
 ## 🛠️ Technology Stack
 
